@@ -2,5 +2,7 @@
 
 I'm Diego, a full-time system & application engineer at NXP Semiconductors.
 
-- ⚡ Fun fact: my personality ranges from being overly patient to somewhere on
-the autism spectrum, and I'm also inspired by true events on movie screens.
+- ⚡ Fun fact:
+ - My personality ranges from being overly patient to somewhere on the autism
+ spectrum;
+ - Atheist, cooking guy, smoker, and inspired by true events on movie screens.
