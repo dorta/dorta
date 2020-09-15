@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-I'm Diego, a full-time system & application engineer at NXP Semiconductors.
+I'm Diego, a full-time system & application engineer.
 
 #### Fun Fact ⚡
 
-- My personality ranges from being overly patient to somewhere on the autism
- spectrum;
-- Atheist, cooking guy, smoker, and inspired by true events on movie screens.
+- Overly patient, atheist, cooking guy, smoker, and inspired by true events on movie screens.
