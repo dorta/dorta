@@ -8,4 +8,4 @@ I'm Diego, a full-time system & application engineer.
 
 #### Resume
 
-- https://diegohdorta.github.io/asciidoc-resume/
+- https://udchronicles.me/asciidoc-resume/
