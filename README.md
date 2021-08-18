@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Diego, a full-time system & application engineer.
+I'm Diego, a full-time Senior Software Engineer at Variscite LTD.
 
 #### Fun Fact ⚡
 
