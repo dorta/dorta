@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/diegohdorta/">
   <img align="left" alt="Diego's Instagram" width="22px" src="https://raw.githubusercontent.com/dorta/dorta/master/assets/instagram.png" />
 </a>
-<a href="https://dorta.pro/resume">
+<a href="https://dorta.github.io/cv/">
   <img align="left" alt="Diego's Resume" width="22px" src="https://raw.githubusercontent.com/dorta/dorta/master/assets/curriculum.png" />
 </a>
 
