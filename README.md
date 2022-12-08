@@ -12,8 +12,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=dorta.dorta)
 
-I'm Diego, a full-time Senior Software Engineer at Variscite LTD.
+I'm Diego, a full-time Senior Software Engineer at Variscite Ltd.
 
-I'm from Brazil, and I'll never leave my country even though I hate most of the politicians. Besides being a bored engineer, I'm married to my best friend, Luana, and she is the only god I'll ever need as I describe myself without the organ of faith.
-
-I'm an overly patient father of four little dogs (Venus, Kim, Bulma, and Chichi) and a beautiful little girl called Helena, which makes me a cuisine chef at least twice a day. Among all these, I'm a guitar player inspired by actual events on movie screens.
+I'm from Brazil, and I'll never leave my country, even though I hate most politicians. Besides being a bored engineer, I'm married to my best friend, and she is the only god I'll ever need. I'm an overly patient father of four little dogs (Venus, Kim, Bulma, and Chichi) and a beautiful little girl, which makes me a cuisine chef at least twice a day. Among all these, I'm a guitar player inspired by actual events on movie screens.
